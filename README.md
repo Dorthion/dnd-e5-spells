@@ -1,1 +1,3 @@
-# dnd-e5-spells
+# dnd_e5_spells
+
+A new Flutter project.
